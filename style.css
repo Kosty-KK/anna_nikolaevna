@@ -172,7 +172,7 @@ footer {
 }
 
 
-@media(min-width: 342px){
+@media(min-width: 400px){
     .hello{
         display: flex;
         
